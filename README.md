@@ -1,2 +1,2 @@
 # Raspberry pi
- All about Raaspberry pi projects
+ All about Raspberry pi projects
