@@ -1,13 +1,11 @@
 # Raspberry pi4B
 
-
-
-
 This project is included four main parts as following:
 1. Serial communication
 2. 131K sample FFT
 3. log file 
 4. 2*16 LCD
+
 Summary:
     In this project, about 1000 samples of data(int16) received by serial port of raspberry pi4b and used the FFT algorithm with 131072 points to calculate the main frequency of receiving signal. If the calculated frequency is in the frequency range it will send to another device by serial port. All information logged in a text file. The file and its information labelled with the current date and time for each runtime. The Whole project was written by QT5 in the Rasbian Linux distro.
 1. Serial communication
