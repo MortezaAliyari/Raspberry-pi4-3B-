@@ -26,9 +26,11 @@ The calculated frequency, number of received serial packets which is in the freq
 4. LCD:
 The calculated frequency displayed on 2*16 LCD. Qt5 software has an LCD library and no need for installation. Also, if there is no data after 10 seconds on the serial port, the LCD will show a "No signal" message.
 The project source code attached. The code not optimized to have better performance!
+
 ***********************************************Ask if you see any problem!**************************************
 
 Mainwidow.c:
+
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include <QtSerialPort/QSerialPort>
