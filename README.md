@@ -1,6 +1,6 @@
 # Raspberry pi4B
 
-This project is included four main parts as following:
+This project is included four main parts (with C++ language) as following:
 1. Serial communication
 2. 131K sample FFT
 3. log file 
