@@ -30,7 +30,7 @@ The project source code attached. The code not optimized to have better performa
 ***********************************************Ask if you see any problem!**************************************
 
 Mainwidow.c:
-
+'''
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include <QtSerialPort/QSerialPort>
@@ -347,7 +347,7 @@ void MainWindow::SerialLcdInit()
 
 }
 
-
+'''
 
 
 
